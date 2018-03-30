@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Data Tales"
-description: "A simple Jekyll theme for words and pictures."
+description: "Let data be the story teller."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://datatales.github.io
 logo: "/images/profile.jpg" # path of site logo, e.g. "/assets/images/logo.png"
@@ -30,11 +30,11 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "UA-116501905-1"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: data_tales
 twitter:
-  username: mmistakes # site's Twitter username
+  username: abp_272 # site's Twitter username
 
 # Liquid
 liquid:
@@ -101,31 +101,31 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
+  name: Abhinav Pandey
+  picture: /images/profile.jpg
   email:
-  twitter: mmistakes
+  twitter: abp_272
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/abp_272
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/abp272
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/abp272
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/mmistakes
+    url: https://twitter.com/abp_272
     icon: fab fa-twitter-square
   - title: Instagram
-    url: https://instagram.com/mmistakes
+    url: https://instagram.com/abp272
     icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/abp272
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
