@@ -20,7 +20,7 @@ title: "Data Tales"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://datatales.github.io
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/profile.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
