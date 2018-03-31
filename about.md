@@ -3,9 +3,8 @@ title: "ABHINAV PANDEY"
 author_profile: true
 permalink: /about/
 image:
-  path: /images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/abhinav_pandey.jpg
+  caption: "Photo from My Gallery"
 ---
 
 * Expertise in R and Python for building Machine learning models for both supervised and unsupervised learning like Logistic regression, linear regression, SVM, KMeans, XGBoost, Neural Networks etc.
