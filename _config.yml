@@ -56,6 +56,9 @@ search_full_content: false
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+# Reading Files
+include:
+  - files
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -97,6 +100,13 @@ defaults:
     values:
       layout: post
       comments: true
+      share: true
+  # About
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: page
       share: true
 
 # Site Author
