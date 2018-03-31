@@ -106,7 +106,7 @@ defaults:
       path: ""
       type: about
     values:
-      layout: page
+      layout: default
       comments: true
       share: true
 
