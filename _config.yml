@@ -106,8 +106,7 @@ defaults:
       path: ""
       type: about
     values:
-      layout: post
-      comments: true
+      layout: page
       share: true
 
 # Site Author
