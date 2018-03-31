@@ -1,5 +1,5 @@
 ---
-title: "ABOUT"
+title: "ABHINAV PANDEY"
 permalink: /about/
 ---image:
   path: /images/chocolate-chip-cookies-lg.jpg
