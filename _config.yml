@@ -32,7 +32,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: "UA-116501905-1"
 disqus:
-  shortname: data_tales
+  shortname: datatales-github-io
 twitter:
   username: abp_272 # site's Twitter username
 
