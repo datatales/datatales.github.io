@@ -1,5 +1,6 @@
 ---
 title: "ABHINAV PANDEY"
+author_profile: true
 permalink: /about/
 ---image:
   path: /images/chocolate-chip-cookies-lg.jpg
