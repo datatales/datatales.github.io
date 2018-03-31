@@ -1,5 +1,5 @@
 ---
-title: "ABHINAV PANDEY"
+title: ""
 author_profile: true
 permalink: /about/
 image:
